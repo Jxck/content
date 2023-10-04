@@ -3460,6 +3460,14 @@
       "inh": "AbortSignal",
       "impl": []
     },
+    "TCPServerSocket": {
+      "inh": "",
+      "impl": []
+    },
+    "TCPSocket": {
+      "inh": "",
+      "impl": []
+    },
     "Text": {
       "inh": "CharacterData",
       "impl": []
@@ -3577,6 +3585,10 @@
       "impl": []
     },
     "TrustedTypePolicyFactory": {
+      "inh": "",
+      "impl": []
+    },
+    "UDPSocket": {
       "inh": "",
       "impl": []
     },
